@@ -1,0 +1,22 @@
+.background{
+    background-color: #fef9db;
+}
+
+.first-circle{
+    background-color:#888272;
+}
+
+.second-circle{
+    background-color: #aca68e;
+}
+.third-circle{
+    background-color:#bcb6a0;
+}
+.fourth-circle{
+    background-color:#e2ddbf;
+}
+
+hr{
+    height:3px;
+    background:grey;
+}
